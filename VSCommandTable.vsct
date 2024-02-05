@@ -21,7 +21,7 @@
         <Icon guid="ImageCatalogGuid" id="EditDocument" />
         <CommandFlag>IconIsMoniker</CommandFlag>
         <Strings>
-          <ButtonText>Beautify Namespaces</ButtonText>
+          <ButtonText>Refine C#</ButtonText>
           <LocCanonicalName>.Simply_Beautify_CSharp.MyCommand</LocCanonicalName>
         </Strings>
       </Button>
